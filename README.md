@@ -1,12 +1,8 @@
-## Make JAMstack apps, not sites with Gatsby + Netlify Identity + Netlify Functions
+## Hopefully Something Soon!
 
-This is a fork of https://github.com/gatsbyjs/gatsby-starter-default which shows how to use Netlify Identity and Netlify Functions with Gatsby. Start here for your next JAMstack hackathon or use this as a reference implementation.
+This is a fork of https://github.com/sw-yx/jamstack-hackathon-starter
 
-<marquee>
-  <a href="https://app.netlify.com/sites/jamstack-hackathon-starter/deploys">
-<img alt="Netlify Status" src="https://api.netlify.com/api/v1/badges/7be76523-4643-4ce9-a6fd-a103463b62f3/deploy-status" />
-  </a>
-</marquee>
+[![Netlify Status](https://api.netlify.com/api/v1/badges/560a19bf-5111-4260-9f4b-7f6922ffdbff/deploy-status)](https://app.netlify.com/sites/sleepy-mestorf-fa84ac/deploys)
 
 ## 3 minute video walkthrough
 
@@ -15,11 +11,6 @@ This is a fork of https://github.com/gatsbyjs/gatsby-starter-default which shows
 ## Make your own from scratch!
 
 Check our post on the Gatsby blog: [Turning the Static Dynamic: Gatsby + Netlify Functions + Netlify Identity](https://www.gatsbyjs.org/blog/2018-12-17-turning-the-static-dynamic/)
-
-## How to start
-
-You can clone and deploy this sample project with one click:
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/sw-yx/jamstack-hackathon-starter&stack=cms)
 
 Basically these are the extra dependencies it adds:
 
